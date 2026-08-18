@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 **Live Website:** [https://terrene-silk.vercel.app/](https://terrene-silk.vercel.app/)
 
-## Getting Started
+## 💻 Local Development
 
 First, run the development server:
 
